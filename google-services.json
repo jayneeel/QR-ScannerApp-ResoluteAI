@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955150656294",
+    "project_id": "scanqr-jokeio",
+    "storage_bucket": "scanqr-jokeio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955150656294:android:bfcf03803a0cb8223197e7",
+        "android_client_info": {
+          "package_name": "com.example.scanqr_jokeio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955150656294-ladg5kt1uemsr26hl4pfj7gu8jce01dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNhdpSnBASSKYxqeNibFXpEABRPmeoCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955150656294-ladg5kt1uemsr26hl4pfj7gu8jce01dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
